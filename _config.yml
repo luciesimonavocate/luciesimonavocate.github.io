@@ -26,7 +26,7 @@ atom_feed:
 search                   : true # true, false (default)
 
 # SEO Related
-google_site_verification : "" # Replace this with your ID, or delete
+google_site_verification : "moZGuDksORyMeEOypom-c7s8KE2pAwrDLJZ_klYSC54" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -49,9 +49,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal"# false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "" # Replace this with your ID, or delete
+    tracking_id          : "UA-111537237-1" # Replace this with your ID, or delete
 
 
 # Site Author
