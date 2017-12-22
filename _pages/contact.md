@@ -31,9 +31,10 @@ Utilisez le formulaire suivant pour prendre contact, poser une question ou faire
     <label id="title10" for="Field10"><strong>Comment avez-vous entendu parler du cabinet?</strong></label>
     <input id="Field10" name="come_from" type="text" maxlength="255">
   </div>
+  <input type="hidden" name="_language" value="fr" />
+  <input type="hidden" name="_next" value="/thanks/"/>
   <div class="form-group">
-     <input type="hidden" name="_subject" value="Contact via Site Web"/>
+    <input type="hidden" name="_subject" value="Contact via Site Web"/>
     <button id="saveForm" name="saveForm" class="btn" type="submit">Envoyer votre Message</button>
   </div>
-  <input type="hidden" name="_next" value="/thanks/"/>
 </form>
