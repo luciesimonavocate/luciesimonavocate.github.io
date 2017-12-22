@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-envelope'></i> Me Contacter"
   cta_url: "/contact/"
   caption:
-excerpt: '<mark>Le cabinet de Maître Lucie SIMON, situé dans le 12 ème arrondissement de Paris, exerce une activité généraliste qui le conduit à intervenir tant devant les juridictions judiciaires qu’administratives.<mark>'
+excerpt: '<mark>Le cabinet de Maître Lucie SIMON, situé dans le 12 ème arrondissement de Paris, exerce une activité généraliste qui le conduit à intervenir tant devant les juridictions administratives que judiciaires.<mark>'
 feature_row:
   - image_path: /assets/images/mm-droit-etranger.jpg
     alt: "Droit des Étrangers"
@@ -19,14 +19,14 @@ feature_row:
   - image_path: /assets/images/mm-droit-penal.jpg
     alt: "Droit Pénal"
     title: "Droit Pénal"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    excerpt: "Le droit pénal concerne le rapport entre la société et l'individu. Il est souvent opposé au droit civil, qui concerne les rapports entre deux personnes morales ou physiques."
     url: "/domaines/droit-penal/"
     btn_class: "btn--primary btn--small"
     btn_label: "Se Renseigner"
   - image_path: /assets/images/mm-droit-famille.jpg
     alt: "Droit de la Famille"
     title: "Droit de la Famille"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
+    excerpt: "Le droit de la famille régit les relations d'un ensemble d'individus unis par un lien de parenté. Il traite notamment du mariage, du divorce, de l'autorité parentale et de la transmission de nom de famille."
     url: "/domaines/droit-famille/"
     btn_class: "btn--primary btn--small"
     btn_label: "Se Renseigner"

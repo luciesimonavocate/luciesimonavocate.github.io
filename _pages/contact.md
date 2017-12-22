@@ -8,9 +8,9 @@ permalink: /contact/
 Le cabinet, situé dans le 12 ème arrondissement de Paris, exerce une activité généraliste qui le conduit à intervenir tant devant les juridictions judiciaires qu’administratives. 
 Il offre tout particulièrement une expertise en **droit des étrangers** et en **droit pénal** mais également en **droit de la famille**.
 
-**Consultation**: Une consultation par téléphone est le meilleur moyen d’obtenir une réponse claire et précise adaptée à votre situation.
-N’hésitez-pas prendre une consultation avec lui (à Paris ou par SKYPE) pour lui demander s’il peut vous aider dans votre cas.
-{: .notice--info}
+**Consultation**: Une consultation par téléphone est le meilleur moyen d’obtenir une réponse claire et adaptée à votre situation.
+N'hésitez pas à mettre vos coordonnées téléphonique dans le message ci-dessous pour être rappelé.
+{: .notice}
 
 Utilisez le formulaire suivant pour prendre contact, poser une question ou faire une demande concernant votre dossier. 
 
