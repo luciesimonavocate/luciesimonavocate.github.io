@@ -28,7 +28,7 @@ Utilisez le formulaire suivant pour prendre contact, poser une question ou faire
     <input id="Field2" name="email" type="email" spellcheck="false" maxlength="255" required>
   </div>
   <div class="form-group">
-    <label id="title10" for="Field10"><strong>Comment avez-vous entendu parlé du cabinet?</strong></label>
+    <label id="title10" for="Field10"><strong>Comment avez-vous entendu parler du cabinet?</strong></label>
     <input id="Field10" name="come_from" type="text" maxlength="255">
   </div>
   <div class="form-group">

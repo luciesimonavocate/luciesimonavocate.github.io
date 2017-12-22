@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/mm-droit-etranger.jpg
     alt: "Droit des Étrangers"
     title: "Droit des Étrangers"
-    excerpt: "Les règles concernant les étrangers qui souhaitent s'installer en France et les français établis à l'étranger évoluent constamment Vous souhaitez obtenir des renseignements actualisés et adaptés à votre situation."
+    excerpt: "Les règles concernant les étrangers qui souhaitent s'installer en France et les français établis à l'étranger évoluent constamment. Vous souhaitez obtenir des renseignements actualisés et adaptés à votre situation."
     url: "/domaines/droit-etrangers/"
     btn_class: "btn--primary btn--small"
     btn_label: "Se Renseigner"
