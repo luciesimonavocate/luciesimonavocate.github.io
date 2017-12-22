@@ -180,6 +180,7 @@ plugins:
 whitelist:
   - jekyll-sitemap
 
+github: [metadata]
 
 # Archives
 #  Type
