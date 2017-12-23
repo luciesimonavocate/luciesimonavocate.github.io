@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-envelope'></i> Me Contacter"
   cta_url: "/contact/"
   caption:
-excerpt: '<mark>Le cabinet de Maître Lucie SIMON, situé dans le 12 ème arrondissement de Paris, exerce une activité généraliste qui le conduit à intervenir tant devant les juridictions administratives que judiciaires.<mark>'
+excerpt: '<mark>Le cabinet de Maître Lucie SIMON, situé dans le 20 ème arrondissement de Paris, exerce une activité généraliste qui le conduit à intervenir tant devant les juridictions administratives que judiciaires.<mark>'
 feature_row:
   - image_path: /assets/images/mm-droit-etranger.jpg
     alt: "Droit des Étrangers"

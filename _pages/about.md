@@ -7,7 +7,7 @@ permalink: /about/
 
 ## Général
 
-Le cabinet de Maître Lucie SIMON, situé dans le 12 ème arrondissement de Paris, exerce une
+Le cabinet de Maître Lucie SIMON, situé dans le 20 ème arrondissement de Paris, exerce une
 activité généraliste qui le conduit à intervenir tant devant les juridictions administratives
 que judiciaires.
 
