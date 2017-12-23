@@ -58,11 +58,12 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/maitresimon.jpg"
-  bio              : "16 boulevard de Charonne, 75020 PARIS<br/>Métro Nation (ligne 1, 2, 6, 9, RER A) ou Avron (ligne 2)<br/>Bus 56, 86, 26, 57, 351"
-  location         : "Paris France, Bd de Charonne"
+  bio              : "Avocate au Barreau de PARIS"
+  location         : "75020 PARIS"
   email            : "luciesimonavocate@gmail.com"
   uri              : "/contact/"
   home             : "https://luciesimonavocate.github.io"
+  phone            : "+33 6 33 50 30 64"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -75,13 +76,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://fr.linkedin.com/in/lucie-simon-27979984"
+  linkedin         : "lucie-simon-27979984"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :

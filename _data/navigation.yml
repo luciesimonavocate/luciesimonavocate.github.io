@@ -1,10 +1,10 @@
 # main links
 main:
+  - title: "Contact"
+    url: /contact/
   - title: "Le Cabinet"
     url: /about/
   - title: "Domaines d'Intervention"
     url: /domaines/
   - title: "Honoraires"
     url: /honoraires/
-  - title: "Contact"
-    url: /contact/
