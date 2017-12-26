@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/mm-droit-penal.jpg
     alt: "Droit Pénal"
     title: "Droit Pénal"
-    excerpt: "Que vous soyez victime, prévenu, mis en examen ou gardé à vue, nous vous représentons et défendons vos intérêts dans tous les stades de la procédure."
+    excerpt: "Que vous soyez victime, prévenu, mis en examen ou gardé à vue, nous vous représentons et défendons vos intérêts à tous les stades de la procédure."
     url: "/domaines/#droit-pénal"
     btn_class: "btn--primary btn--small"
     btn_label: "Se Renseigner"
