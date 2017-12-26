@@ -26,7 +26,7 @@ feature_row:
   - image_path: /assets/images/mm-droit-famille.jpg
     alt: "Droit de la Famille"
     title: "Droit de la Famille"
-    excerpt: "Le droit de la famille régit les relations d'un ensemble d'individus unis par un lien de parenté. Nous vous assistons dans les procédures de divorce, d'autorités parentale ou encore de changement de nom."
+    excerpt: "Le droit de la famille régit les relations d'un ensemble d'individus unis par un lien de parenté. Nous vous assistons dans les procédures de divorce, d'autorité parentale ou encore de changement de nom."
     url: "/domaines/#droit-de-la-famille"
     btn_class: "btn--primary btn--small"
     btn_label: "Se Renseigner"
