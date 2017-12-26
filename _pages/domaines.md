@@ -29,8 +29,7 @@ permalink: /domaines/
 - Personnes présumées auteures d’infraction
     - Assistance en garde à vue
     - Représentation en audience correctionnelle
-- Personnes incarcérées après avoir été reconnues coupables
-    - 
+
 
 ## Droit de la famille
 
