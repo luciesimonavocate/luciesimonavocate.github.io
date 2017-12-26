@@ -6,15 +6,13 @@ permalink: /domaines/
 ---
 
 ## Droit des étrangers
-
-- Séjour
-    - Accompagnement dans la régularisation de votre situation administrative devant les services préfectoraux 
+ 
 - Asile
     - Conseil
     - Recours contre la décision de l’OFPRA devant la CNDA
 - Eloignement
     - Recours contre les obligations de quitter le territoire français
-    - Recours contre les décisions de transfert et d’assignation à résidence prises sous le règlement Dublin
+    - Recours contre les décisions de transfert et d’assignation à résidence prises dans le cadre du règlement Dublin
 - Séjour
     - Accompagnement dans la régularisation administrative et l’obtention d’un titre de séjour
         - Etudiant
@@ -31,6 +29,8 @@ permalink: /domaines/
 - Personnes présumées auteures d’infraction
     - Assistance en garde à vue
     - Représentation en audience correctionnelle
+- Personnes incarcérées après avoir été reconnues coupables
+    - 
 
 ## Droit de la famille
 
