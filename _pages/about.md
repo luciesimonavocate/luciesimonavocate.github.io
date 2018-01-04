@@ -1,6 +1,6 @@
 ---
 title: "Le Cabinet"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "Le cabinet de Maître Lucie SIMON, situé dans le 20ème arrondissement de Paris, vous accueille pour vous conseiller dans vos démarches administratives et vous représenter dans vos procédures judiciaires."
 sitemap: true
 permalink: /about/
 ---
