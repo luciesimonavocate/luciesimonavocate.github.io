@@ -1,6 +1,6 @@
 ---
 title: "Domaines d'Intervention"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "Le Cabinet de Maître Lucie SIMON conseille, défend, assiste et représente ses clients dans les domaines du droit suivants."
 sitemap: true
 permalink: /domaines/
 ---
