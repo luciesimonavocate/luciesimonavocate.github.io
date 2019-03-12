@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-envelope'></i> Me Contacter"
   cta_url: "/contact/"
   caption:
-excerpt: '<mark>Le cabinet de Maître Lucie SIMON, situé dans le 20ème arrondissement de Paris, vous accueille pour vous conseiller dans vos démarches administratives et vous représenter dans vos procédures judiciaires.<mark>'
+excerpt: '<mark>Le cabinet de Maître Lucie SIMON, situé à Saint-Mandé dans le département du Val-de-Marne, vous accueille pour vous conseiller dans vos démarches administratives et vous représenter dans vos procédures judiciaires.<mark>'
 feature_row:
   - image_path: /assets/images/mm-droit-etranger.jpg
     alt: "Droit des Étrangers"
