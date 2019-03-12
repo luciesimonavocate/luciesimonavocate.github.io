@@ -6,7 +6,7 @@ permalink: /map/
 ---
 
 
-## 16 Bd de Charonne, 75020 PARIS
+## 59 avenue du Général de Gaulle, 94160 Saint-Mandé
 
 <iframe
   width="100%"
