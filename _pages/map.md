@@ -12,6 +12,5 @@ permalink: /map/
   width="100%"
   height="450"
   frameborder="0" style="border:0"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAzfbvvQ22GWNTMFCf4Pibwwd79FjeePDo
-    &q=16 Bd de Charonne, 75020 PARIS" allowfullscreen>
+  src="https://goo.gl/maps/vj3YAjpTvfH2" allowfullscreen>
 </iframe>
