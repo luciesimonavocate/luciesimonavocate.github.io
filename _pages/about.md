@@ -1,13 +1,13 @@
 ---
 title: "Le Cabinet"
-excerpt: "Le cabinet de Maître Lucie SIMON, situé dans le 20ème arrondissement de Paris, vous accueille pour vous conseiller dans vos démarches administratives et vous représenter dans vos procédures judiciaires."
+excerpt: "Le cabinet de Maître Lucie SIMON, situé à Saint-Mandé dans le département du Val-de-Marne, vous accueille pour vous conseiller dans vos démarches administratives et vous représenter dans vos procédures judiciaires."
 sitemap: true
 permalink: /about/
 ---
 
 ## Général
 
-Le cabinet de Maître Lucie SIMON, situé dans le 20 ème arrondissement de Paris, exerce une
+Le cabinet de Maître Lucie SIMON, situé à Saint-Mandé dans le département du Val-de-Marne, exerce une
 activité généraliste qui le conduit à intervenir tant devant les juridictions administratives
 que judiciaires.
 
