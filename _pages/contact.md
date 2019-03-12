@@ -5,7 +5,7 @@ sitemap: true
 permalink: /contact/
 ---
 
-Le cabinet, situé dans le 20 ème arrondissement de Paris, exerce une activité généraliste qui le conduit à intervenir tant devant les juridictions judiciaires qu’administratives. 
+Le cabinet, situé à Saint-Mandé dans le département du Val-de-Marne, exerce une activité généraliste qui le conduit à intervenir tant devant les juridictions judiciaires qu’administratives. 
 Il offre tout particulièrement une expertise en **droit des étrangers** et en **droit pénal** mais également en **droit de la famille**.
 
 **Consultation**: Une consultation par téléphone est le meilleur moyen d’obtenir une réponse claire et adaptée à votre situation.
