@@ -23,7 +23,7 @@ feature_row:
     url: "/domaines/#droit-d-asile"
     btn_class: "btn--primary btn--small"
     btn_label: "Se Renseigner"
-  - image_path: /assets/images/mm-droit-famille.jpg
+  - image_path: /assets/images/mm-droit-penal.jpg
     alt: "Droit pénal"
     title: "Droit pénal"
     excerpt: "Que vous soyez victime, prévenu, mis en examen ou gardé à vue, nous vous représentons et défendons vos intérêts à tous les stades de la procédure."
