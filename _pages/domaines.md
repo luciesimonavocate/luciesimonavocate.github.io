@@ -30,6 +30,7 @@ permalink: /domaines/
 - Personnes victimes d’infractions
     - Dépôt de plainte
     - Représentation aux audiences pénales et civiles
+    
 - Personnes présumées auteures d’infraction
     - Assistance en garde à vue
     - Représentation en audience correctionnelle
