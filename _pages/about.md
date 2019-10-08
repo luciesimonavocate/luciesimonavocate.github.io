@@ -1,6 +1,6 @@
 ---
 title: "Le Cabinet"
-excerpt: "Le cabinet de Maître Lucie SIMON, situé à Saint-Mandé dans le département du Val-de-Marne, vous accueille pour vous conseiller dans vos démarches administratives et vous représenter dans vos procédures judiciaires."
+excerpt: "Le cabinet de Maître Lucie SIMON, situé à Saint-Mandé dans le département du Val-de-Marne, vous accueille pour vous conseiller dans vos démarches administratives et vous assister dans vos procédures judiciaires."
 sitemap: true
 permalink: /about/
 ---
