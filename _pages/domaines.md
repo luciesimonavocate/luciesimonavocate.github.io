@@ -10,15 +10,19 @@ permalink: /domaines/
 - Asile
     - Conseil
     - Recours contre la décision de l’OFPRA devant la CNDA
+    
 - Eloignement
     - Recours contre les obligations de quitter le territoire français
     - Recours contre les décisions de transfert et d’assignation à résidence prises dans le cadre du règlement Dublin
+    
 - Séjour
     - Accompagnement dans la régularisation administrative et l’obtention d’un titre de séjour
         - Etudiant
         - Mobilité professionnelle 
         - Visa
         - Regroupement familial
+        - Passeport-talent
+        
 - Nationalité
 
 ## Droit pénal
@@ -30,8 +34,3 @@ permalink: /domaines/
     - Assistance en garde à vue
     - Représentation en audience correctionnelle
 
-
-## Droit de la famille
-
-- Divorces
-    - Divorce par consentement mutuel avec contreseing d’avocat
