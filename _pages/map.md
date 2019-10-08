@@ -1,6 +1,6 @@
 ---
 title: "Adresse Lucie SIMON"
-excerpt: "Voici une carte de mon adresse"
+excerpt: "Voici la localisation du cabinet"
 sitemap: true
 permalink: /map/
 ---
