@@ -9,8 +9,8 @@ search: true
 Les honoraires sont fixés en fonction de la difficulté du dossier, mais aussi de la situation financière de l’intéressé.
 Selon les cas, ils peuvent être forfaitaire ou « au temps passé ». Il existe de même des « honoraires de résultat ». 
 
-**Consultation**: Le tarif d’une consultation est de **75 euros TTC**. 
-La consultation se déroule en général au cabinet mais peut avoir lieu par téléphone ou skype en cas de difficulté de déplacement.
+**Consultation**: Le tarif d’une consultation est de **100 euros TTC**. 
+La consultation se déroule en général au cabinet mais peut avoir lieu par téléphone ou skype en cas de difficulté de déplacement. 
 {: .notice}
 
 ## L’honoraire « au forfait »
