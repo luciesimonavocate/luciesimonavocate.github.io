@@ -16,7 +16,7 @@ feature_row:
     url: "/domaines/#droit-des-étrangers"
     btn_class: "btn--primary btn--small"
     btn_label: "Se Renseigner"
-  - image_path: /assets/images/mm-droit-penal.jpg
+  - image_path: /assets/images/mm-droit-asile.jpg
     alt: "Droit d'asile"
     title: "Droit d'asile"
     excerpt: "Obtenir la protection internationale en France est un long combat qui nécessite un accompagnement humain et juridique. Nous vous conseillons et vous assistons avec compétence et bienveillance, de l'OFPRA à la CNDA."
