@@ -19,7 +19,7 @@ contentieux.
 
 Maître Lucie SIMON est diplômée de Sciences-Po Paris.
 Depuis son plus jeune âge, elle est engagée pour les droits des étrangers. Remarquée lors de
-concours de plaidoirie dont celui du Mémorial de Caen dont elle a remporté le premier prix ainsi que le prix de l'engagement, elle a créé son association de soutien juridique aux migrants avant de s’inscrire au Barreau de Paris et d’ouvrir son propre cabinet. Elle exerce aujourd'hui dans le Val-de-Marne. 
+concours de plaidoirie dont celui du Mémorial de Caen dont elle a remporté le premier prix ainsi que le prix de l'engagement, elle a créé son association de soutien juridique aux migrants avant de s’inscrire au Barreau de Paris et d’ouvrir son propre cabinet. Elle exerce aujourd'hui dans le barreau du Val-de-Marne. 
 
 Le cabinet de Maître Lucie SIMON offre compétence et humanité dans l’accompagnement de ses clients
 
